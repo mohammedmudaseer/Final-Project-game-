@@ -20,7 +20,6 @@ git clone https://github.com/your-repository/adventure-game.git
 Alternatively, download the ZIP file of the repository and extract it to your desired location.
 Navigate to the Game Directory:
 cd adventure-game
-Ensure All Modules Are in the Same Directory: Make sure the game files (Chapter_1.py, Chapter_2.py, etc.) are in the same folder.
 
 Install Required Libraries (if any): This game doesn't rely on external libraries, but you can install dependencies if the game is extended in the future:
 pip install -r requirements.txt
